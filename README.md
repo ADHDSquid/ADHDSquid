@@ -16,7 +16,7 @@ I'm a simple guy who enjoys programming
   <i>(Most to Least Used)</i>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/java.png" height="20">
+    <a href="https://www.jetbrains.com/idea/"><img src="./icons/java.png" height="20"></a>
     <span>Java</span>
   </div>
 
