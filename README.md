@@ -4,7 +4,7 @@ I'm a simple guy who enjoys programming
 
 <div style="display:flex; align-items:center; gap:8px;">
   <span><b>IDE:</b></span>
-  <img src="./icons/intellij.png" height="20">
+  <a href="https://www.jetbrains.com/idea/"><img src="./icons/intellij.png" height="20"></a>
   <span>(IntelliJ Idea)</span>
 </div>
 
@@ -16,32 +16,32 @@ I'm a simple guy who enjoys programming
   <i>(Most to Least Used)</i>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <a href="https://www.jetbrains.com/idea/"><img src="./icons/java.png" height="20"></a>
+    <a href="https://www.java.com/"><img src="./icons/java.png" height="20"></a>
     <span>Java</span>
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/python.png" height="20">
+    <a href="https://www.python.org/"><img src="./icons/python.png" height="20"></a>
     <span>Python</span>
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/html.png" height="20">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/"><img src="./icons/html.png" height="20"></a>
     <span>HTML</span>
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/css.png" height="20">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="./icons/css.png" height="20"></a>
     <span>CSS</span>
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/lua.png" height="20">
+    <a href="https://www.lua.org/"><img src="./icons/lua.png" height="20"></a>
     <span>Lua</span>
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
-    <img src="./icons/kotlin.png" height="20">
+    <a href="https://kotlinlang.org/"><img src="./icons/kotlin.png" height="20"></a>
     <span>Kotlin</span>
   </div>
 </div>
