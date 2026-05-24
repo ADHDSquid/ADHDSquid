@@ -31,6 +31,11 @@ I'm a simple guy who enjoys programming
   </div>
 
   <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="./icons/js.png" height="20"></a>
+    <span>JavaScript</span>
+  </div>
+
+  <div style="display:flex; align-items:center; gap:10px; margin-top:6px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="./icons/css.png" height="20"></a>
     <span>CSS</span>
   </div>
